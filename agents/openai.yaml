@@ -1,0 +1,4 @@
+interface:
+  display_name: "B站充电专属帖子整理"
+  short_description: "按月份整理充电专属正文为日期开头的 Markdown"
+  default_prompt: "使用 $collect-bilibili-charge-posts 整理指定 B 站博主某个月的充电专属帖子。"
